@@ -15,10 +15,10 @@ other installed driver. Applications publish the optional descriptor from
   diffuse texture. Geometry, material, texture and model-local transforms are
   preserved. The unavailable optional thumbnail reference is omitted.
 - `resources/icons/`: eight original 32px PNG/GIF status icons, preserved.
-  `DeviceStandbyAlert` is undeclared by the source package and remains null;
-  the output adapter supplies its generic default for that slot.
+  `DeviceStandbyAlert` explicitly reuses the existing standby icon so waiting
+  does not select the output adapter's generic default for that slot.
 - `resources/driver.vrresources`: original status mapping with this package's
-  namespace substituted.
+  namespace substituted and the standby-alert slot assigned to the standby icon.
 - `sources/asset-origins.json`: source-relative names and content hashes.
 
 After replacing assets, use new references or restart the output Provider

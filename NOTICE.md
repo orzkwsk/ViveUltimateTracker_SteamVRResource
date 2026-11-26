@@ -4,7 +4,8 @@ The model, material, texture and status icons originate from the public SteamVR
 display resources distributed with VIVE Ultimate Tracker. This package preserves
 their original asset bytes and existing embedded notices. Component metadata
 is reformatted with an unavailable optional thumbnail reference removed; the
-status mapping uses the independent `vut_display_resources` namespace.
+status mapping uses the independent `vut_display_resources` namespace and
+explicitly assigns its standby-alert slot to the existing standby icon.
 
 No upstream LICENSE or NOTICE file was present in the inspected display-resource
 package. This repository makes no additional license grant for the imported

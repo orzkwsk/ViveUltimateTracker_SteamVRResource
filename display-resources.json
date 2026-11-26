@@ -9,7 +9,7 @@
       "DeviceSearching": "{vut_display_resources}/icons/tracker_status_searching.gif",
       "DeviceSearchingAlert": "{vut_display_resources}/icons/tracker_status_searching_alert.gif",
       "DeviceStandby": "{vut_display_resources}/icons/tracker_status_standby.png",
-      "DeviceStandbyAlert": null
+      "DeviceStandbyAlert": "{vut_display_resources}/icons/tracker_status_standby.png"
     },
     "model": "{vut_display_resources}vive_ultimate_tracker"
   }

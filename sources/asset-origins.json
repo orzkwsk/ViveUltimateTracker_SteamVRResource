@@ -91,8 +91,8 @@
       "path": "resources/driver.vrresources",
       "source_relative_path": "resources/driver.vrresources",
       "source_sha256": "c66d13808d10cb1f6b5fc78f4823c4adf9094a307ffbdc7e070b964708aafa84",
-      "packaged_sha256": "04453aa0ddda49c673bafc4fc7b1b9197acd9187a9f03eb73ed3a949bc9c8c4b",
-      "transformation": "Public resource namespace changed to vut_display_resources"
+      "packaged_sha256": "83494459ebafe6ac305e810f632895bc09c47c4ddab13347024e5f245fd1433b",
+      "transformation": "Public namespace substituted; package-owned DeviceStandbyAlert explicitly reuses the original standby icon"
     }
   ]
 }

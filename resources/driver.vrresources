@@ -9,7 +9,8 @@
       "Prop_NamedIconPathDeviceReadyAlert_String": "{vut_display_resources}/icons/tracker_status_ready_alert.png",
       "Prop_NamedIconPathDeviceNotReady_String": "{vut_display_resources}/icons/tracker_status_error.png",
       "Prop_NamedIconPathDeviceStandby_String": "{vut_display_resources}/icons/tracker_status_standby.png",
-      "Prop_NamedIconPathDeviceAlertLow_String": "{vut_display_resources}/icons/tracker_status_ready_low.png"
+      "Prop_NamedIconPathDeviceAlertLow_String": "{vut_display_resources}/icons/tracker_status_ready_low.png",
+      "Prop_NamedIconPathDeviceStandbyAlert_String": "{vut_display_resources}/icons/tracker_status_standby.png"
     }
   }
 }
