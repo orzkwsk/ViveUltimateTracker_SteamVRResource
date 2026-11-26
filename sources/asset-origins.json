@@ -1,0 +1,98 @@
+{
+  "source_package": "vive_ultimate_tracker public SteamVR display resources",
+  "package_namespace": "vut_display_resources",
+  "upstream_driver_manifest_sha256": "a3f8b92c39d2228bd4dc00bea8e34dce25c88d01c4ce961f400815e095d9e8a6",
+  "files": [
+    {
+      "path": "resources/rendermodels/vive_ultimate_tracker/vive_ultimate_tracker.json",
+      "source_relative_path": "resources/rendermodels/vive_ultimate_tracker/vive_ultimate_tracker.json",
+      "source_sha256": "c2843fa325236014d9f3dbb171f0f544b9b30f3caaabe28b4b9b7d93e68a5e69",
+      "packaged_sha256": "0a9fa0d50a8e63a4e5045cf09af1e7476d92fadb56e0b0e79f07cd4b04c3ac65",
+      "transformation": "JSON formatting normalized; absent optional thumbnail omitted; all components and local transforms unchanged"
+    },
+    {
+      "path": "resources/rendermodels/vive_ultimate_tracker/Vive_Ultimate_Tracker.obj",
+      "source_relative_path": "resources/rendermodels/vive_ultimate_tracker/Vive_Ultimate_Tracker.obj",
+      "source_sha256": "f933420922593f92be1a0ea4fe11c1f937d120b7ffe4309165df6e9eb8b4268d",
+      "packaged_sha256": "f933420922593f92be1a0ea4fe11c1f937d120b7ffe4309165df6e9eb8b4268d",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/rendermodels/vive_ultimate_tracker/Vive_Ultimate_Tracker.mtl",
+      "source_relative_path": "resources/rendermodels/vive_ultimate_tracker/Vive_Ultimate_Tracker.mtl",
+      "source_sha256": "db78322b2a929b7a4343042f7e7794372e7a35492b73e68c998c0756bff6cbda",
+      "packaged_sha256": "db78322b2a929b7a4343042f7e7794372e7a35492b73e68c998c0756bff6cbda",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/rendermodels/vive_ultimate_tracker/Vive_Ultimate_Tracker_BaseColor.png",
+      "source_relative_path": "resources/rendermodels/vive_ultimate_tracker/Vive_Ultimate_Tracker_BaseColor.png",
+      "source_sha256": "1cd2dfa58c90c9dd56df3e9b2be576e7d823e4854a6cfdff2ca7febd15392a40",
+      "packaged_sha256": "1cd2dfa58c90c9dd56df3e9b2be576e7d823e4854a6cfdff2ca7febd15392a40",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/icons/tracker_status_ready_low.png",
+      "source_relative_path": "resources/icons/tracker_status_ready_low.png",
+      "source_sha256": "d40d5745bd90360acced49fdfa31ce3a6054b5d28cfa13d9a555ee803a51c1c0",
+      "packaged_sha256": "d40d5745bd90360acced49fdfa31ce3a6054b5d28cfa13d9a555ee803a51c1c0",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/icons/tracker_status_error.png",
+      "source_relative_path": "resources/icons/tracker_status_error.png",
+      "source_sha256": "1a0ad8fe2911b7c47899c070eba55f92293aa239f38a76bce8582a8ce0b86aa6",
+      "packaged_sha256": "1a0ad8fe2911b7c47899c070eba55f92293aa239f38a76bce8582a8ce0b86aa6",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/icons/tracker_status_off_dark.png",
+      "source_relative_path": "resources/icons/tracker_status_off_dark.png",
+      "source_sha256": "54e3b6fb91e68732081c73be0b4332941cf7d619304c2e23525c21a6d444251e",
+      "packaged_sha256": "54e3b6fb91e68732081c73be0b4332941cf7d619304c2e23525c21a6d444251e",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/icons/tracker_status_ready.png",
+      "source_relative_path": "resources/icons/tracker_status_ready.png",
+      "source_sha256": "c89b8b11d61af324533a8284caf71d5396be2c45c96f7d4cd976a35ced9e3216",
+      "packaged_sha256": "c89b8b11d61af324533a8284caf71d5396be2c45c96f7d4cd976a35ced9e3216",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/icons/tracker_status_ready_alert.png",
+      "source_relative_path": "resources/icons/tracker_status_ready_alert.png",
+      "source_sha256": "51174ef4bc5b11c3c0eef97ac41927a8a574dc5b4bbf4a30c32e94d432f563c4",
+      "packaged_sha256": "51174ef4bc5b11c3c0eef97ac41927a8a574dc5b4bbf4a30c32e94d432f563c4",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/icons/tracker_status_searching.gif",
+      "source_relative_path": "resources/icons/tracker_status_searching.gif",
+      "source_sha256": "4f5dbc5ce2e8e025b2d0d9e09d69b2f2ab8d1f55c57e6522eca8e590e698de8d",
+      "packaged_sha256": "4f5dbc5ce2e8e025b2d0d9e09d69b2f2ab8d1f55c57e6522eca8e590e698de8d",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/icons/tracker_status_searching_alert.gif",
+      "source_relative_path": "resources/icons/tracker_status_searching_alert.gif",
+      "source_sha256": "695cdb63f1556aab77e482a1b233dd5040d0df912f8afe5b72fcf9004a0c8063",
+      "packaged_sha256": "695cdb63f1556aab77e482a1b233dd5040d0df912f8afe5b72fcf9004a0c8063",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/icons/tracker_status_standby.png",
+      "source_relative_path": "resources/icons/tracker_status_standby.png",
+      "source_sha256": "e589caa4e6a3f734c300315a35b74049ea040ba563d57324afd994ff6c913294",
+      "packaged_sha256": "e589caa4e6a3f734c300315a35b74049ea040ba563d57324afd994ff6c913294",
+      "transformation": "none"
+    },
+    {
+      "path": "resources/driver.vrresources",
+      "source_relative_path": "resources/driver.vrresources",
+      "source_sha256": "c66d13808d10cb1f6b5fc78f4823c4adf9094a307ffbdc7e070b964708aafa84",
+      "packaged_sha256": "04453aa0ddda49c673bafc4fc7b1b9197acd9187a9f03eb73ed3a949bc9c8c4b",
+      "transformation": "Public resource namespace changed to vut_display_resources"
+    }
+  ]
+}

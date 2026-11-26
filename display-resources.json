@@ -1,0 +1,16 @@
+{
+  "display_resources": {
+    "icons": {
+      "DeviceAlertLow": "{vut_display_resources}/icons/tracker_status_ready_low.png",
+      "DeviceNotReady": "{vut_display_resources}/icons/tracker_status_error.png",
+      "DeviceOff": "{vut_display_resources}/icons/tracker_status_off_dark.png",
+      "DeviceReady": "{vut_display_resources}/icons/tracker_status_ready.png",
+      "DeviceReadyAlert": "{vut_display_resources}/icons/tracker_status_ready_alert.png",
+      "DeviceSearching": "{vut_display_resources}/icons/tracker_status_searching.gif",
+      "DeviceSearchingAlert": "{vut_display_resources}/icons/tracker_status_searching_alert.gif",
+      "DeviceStandby": "{vut_display_resources}/icons/tracker_status_standby.png",
+      "DeviceStandbyAlert": null
+    },
+    "model": "{vut_display_resources}vive_ultimate_tracker"
+  }
+}
